@@ -16,7 +16,6 @@ int main(void)
 	int counter = 0;
 	
 	
-	12323123123
 	
 	for(;;) {	   
 	   	counter++;
